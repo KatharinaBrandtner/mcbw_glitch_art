@@ -7,7 +7,8 @@ Created for:
 
 **Playgrounds of Care — Socialization between Flesh and Code**  
 MUC.DAI — Munich Center for Digital Sciences and AI  
-Munich Creative Business Week (MCBW)
+Munich Creative Business Week (MCBW)<br>
+https://www.mcbw.de/en/program/detail/event/playgrounds-of-care-sozialisation-zwischen-fleisch-und-code
 <br><br>
 
 ## 🧠 Concept
