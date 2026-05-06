@@ -8,7 +8,7 @@ Created for:
 **Playgrounds of Care — Socialization between Flesh and Code**  
 MUC.DAI — Munich Center for Digital Sciences and AI  
 Munich Creative Business Week (MCBW)
-
+<br><br>
 
 ## 🧠 Concept
 
@@ -31,6 +31,7 @@ The installation asks:
 
 > What happens when creative processes are no longer fully human, but negotiated between flesh and code?
 
+<br>
 
 ## 🌀 Visual Structure
 
@@ -47,7 +48,7 @@ The code acts simultaneously as language, texture, and atmosphere.
 Triggered only by movement of the tracked red markers.
 
 As the curtain shifts, the system produces bursts of digital interference, representing moments of computational overreaction and machine interpretation.
-
+<br><br>
 
 ## 🫧 Interaction
 
@@ -62,7 +63,7 @@ The system tracks:
 Sustained movement activates the glitch layer.
 
 Small movements create subtle reactions, while stronger gestures generate denser distortions.
-
+<br><br>
 
 ## ⚙️ Technologies
 
@@ -70,7 +71,7 @@ Small movements create subtle reactions, while stronger gestures generate denser
 - OpenCV.js
 - JavaScript
 - Real-time computer vision tracking
-
+<br><br>
 
 ## 🚀 Running the Project
 
@@ -86,7 +87,7 @@ Crome Full Screen:
 ```bash
 Cmd + Shift + F
 ```
-
+<br>
 
 ## 🛠 Debug Mode
 
@@ -102,12 +103,14 @@ When debug mode is ON:
 	- `tracked` (number of detected points)
 	- `moving` (number of moving points)
 	- `cv ready` (whether OpenCV is loaded)
-
-
+<br><br>
 
 ## 🩷 Authors
 Annika Bürsner
+
 Rose Altmann
+
 Katharina Brandtner
+<br><br>
 
 Munich, 2026
