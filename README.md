@@ -1,5 +1,5 @@
 # Flesh / Code  
-### MCBW 2026 — Playgrounds of Care
+### 🎨 MCBW 2026 — Playgrounds of Care
 
 Interactive audiovisual installation exploring the relationship between physical intervention and computational reaction.
 
@@ -9,9 +9,8 @@ Created for:
 MUC.DAI — Munich Center for Digital Sciences and AI  
 Munich Creative Business Week (MCBW)
 
----
 
-## Concept
+## 🧠 Concept
 
 The installation reacts to physical movement with digital glitches.
 
@@ -32,9 +31,8 @@ The installation asks:
 
 > What happens when creative processes are no longer fully human, but negotiated between flesh and code?
 
----
 
-## Visual Structure
+## 🌀 Visual Structure
 
 The visual system consists of three layers:
 
@@ -50,9 +48,8 @@ Triggered only by movement of the tracked red markers.
 
 As the curtain shifts, the system produces bursts of digital interference, representing moments of computational overreaction and machine interpretation.
 
----
 
-## Interaction
+## 🫧 Interaction
 
 Participants interact indirectly through movement of the curtain.
 
@@ -66,18 +63,16 @@ Sustained movement activates the glitch layer.
 
 Small movements create subtle reactions, while stronger gestures generate denser distortions.
 
----
 
-## Technologies
+## ⚙️ Technologies
 
 - p5.js
 - OpenCV.js
 - JavaScript
 - Real-time computer vision tracking
 
----
 
-## Running the Project
+## 🚀 Running the Project
 
 Open the project folder in a terminal and run:
 
@@ -91,9 +86,9 @@ Crome Full Screen:
 ```bash
 Cmd + Shift + F
 ```
----
 
-## Debug Mode
+
+## 🛠 Debug Mode
 
 You can toggle a visual debug overlay during runtime:
 
@@ -108,9 +103,9 @@ When debug mode is ON:
 	- `moving` (number of moving points)
 	- `cv ready` (whether OpenCV is loaded)
 
----
 
-## Authors
+
+## 🩷 Authors
 Annika Bürsner
 Rose Altmann
 Katharina Brandtner
