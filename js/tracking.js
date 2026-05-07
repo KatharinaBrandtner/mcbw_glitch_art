@@ -85,21 +85,21 @@ class Tracker {
         1,
         3,
         cv.CV_8U,
-        [0, 80, 80]
+        [0, 50, 50]
       );
 
       const high1 = cv.matFromArray(
         1,
         3,
         cv.CV_8U,
-        [18, 255, 255]
+        [25, 255, 255]
       );
 
       const low2 = cv.matFromArray(
         1,
         3,
         cv.CV_8U,
-        [155, 80, 80]
+        [145, 50, 50]
       );
 
       const high2 = cv.matFromArray(

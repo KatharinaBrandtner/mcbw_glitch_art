@@ -1,7 +1,7 @@
 const CONFIG = {
   // Movement detection sensitivity for tracked red points.
-  movementThreshold: 5,
-  matchDistance: 60,
+  movementThreshold: 4.5,
+  matchDistance: 30,
   minRedArea: 8,
 
   // Radius around moving points where glitch fragments appear.
