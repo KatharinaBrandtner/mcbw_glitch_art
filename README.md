@@ -66,6 +66,30 @@ Sustained movement activates the glitch layer.
 Small movements create subtle reactions, while stronger gestures generate denser distortions.
 <br><br>
 
+## 🫟 Exhibition
+
+The installation is designed for projection onto a semi-transparent white curtain suspended approximately 30 cm in front of a wall.
+
+This setup allows the projection to exist both on the surface of the curtain and on the wall behind it, creating a layered image that reflects the idea of computational processes operating "in the background."
+
+### Setup
+
+- Semi-transparent white curtain
+- Suspension system (approx. 30 cm distance from the wall)
+- Red tracking markers attached to the curtain
+- Projector
+- Computer running the application
+- Webcam for real-time tracking
+
+### Documentation
+
+Video of the installation:
+
+
+https://github.com/user-attachments/assets/a61ba6a1-fd1b-4819-9dea-b1f02b8c61a5
+
+
+
 ## ⚙️ Technologies
 
 - p5.js
@@ -105,6 +129,7 @@ When debug mode is ON:
 	- `moving` (number of moving points)
 	- `cv ready` (whether OpenCV is loaded)
 <br><br>
+
 
 ## 🩷 Authors
 Annika Bürsner
