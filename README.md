@@ -76,7 +76,7 @@ This setup allows the projection to exist both on the surface of the curtain and
 
 - Semi-transparent white curtain
 - Suspension system (approx. 30 cm distance from the wall)
-- Red tracking markers attached to the curtain
+- Red tracking markers attached to the curtain (big enough and right distance)
 - Projector
 - Computer running the application
 - Webcam for real-time tracking
